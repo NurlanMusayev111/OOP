@@ -41,6 +41,6 @@ Student student = new Student();
 student.name = "Nurlan";
 student.surname = "Musayev";
 student.age = 21;
-
+student.address = "Qazax";
 
 Console.WriteLine(student.GetFullData());
